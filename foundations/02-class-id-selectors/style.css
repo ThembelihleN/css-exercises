@@ -4,15 +4,16 @@
 }
 
 .graph{
-    font-size: 18px;
+    font-size: 24px;
 }
 
 #one{
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
 #two{
     background-color: rgb(111, 240, 111);
     font-weight: bold;
+    font-size: 24px;
 }

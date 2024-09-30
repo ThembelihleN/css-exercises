@@ -4,6 +4,8 @@
 }
 
 .first{
+    color: white;
+    font-weight: bold;
     background-color: hsl(0, 0%, 0%);
 }
 

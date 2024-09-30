@@ -1,13 +1,18 @@
 .para{
-    background-color: pink;
+    background-color: rgb(255, 192, 203);
     font-family: verdana, dejavu Sans, sans-serif;
 }
 
 .graph{
-    font-size: 10px;
+    font-size: 18px;
 }
 
 #one{
     color: blue;
     font-size: 36px;
+}
+
+#two{
+    background-color: rgb(111, 240, 111);
+    font-weight: bold;
 }
